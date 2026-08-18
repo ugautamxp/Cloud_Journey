@@ -14,7 +14,7 @@ $ ls -R : list all the directory and recursive directories and files (folder ins
 $ **mkdir** : make new directory
 
 $ **cd (change directory)** : opens to home directory
-$ **cd ..** : go back to previous directory (Path) - .. will also do the same
+$ **cd ..** : go back to parent directory (Path) - .. will also do the same
 $ cd .  : current directory (Path) - nothing will change
 $ **cd ~** : go to home directory
 $ cd ./<directory-name>  : opens <directory-name> directory
