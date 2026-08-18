@@ -1,7 +1,8 @@
-#### shell 
-it is a CLI which interpret the commands and tell the OS - what to do
+#### Shell 
+It is a Command Line Interface which interpret the commands and tell the OS what to do
 
-### commands - are like some executable files
+### Commands - 
+commands are like some executable files
 $ **pwd** : Print working Directory - it prints current directory we are in.
 
 $ **ls** : list all the things in the current directory
